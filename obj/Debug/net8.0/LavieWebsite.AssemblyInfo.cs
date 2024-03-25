@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LavieWebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae8f3c94946ab849d7155f4ad2fcc6138381acf0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LavieWebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LavieWebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
